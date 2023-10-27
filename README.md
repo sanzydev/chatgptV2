@@ -3,13 +3,13 @@
 # Install
 
 ```sh
-> npm i @nechlophomeriaa/chatgptv2
+> npm i sanzy-chatgptv2
 ```
 
 # Usage
 
 ```js
-const { generate } = require("@nechlophomeriaa/chatgptv2")
+const { generate } = require("sanzy-chatgptv2")
 ```
 
 # Example
