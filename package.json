@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thoriqazzikraa/chatgptV2.git"
+    "url": "git+https://github.com/sanzydev/chatgptV2.git"
   },
   "keywords": [
     "free-chatgpt",
@@ -23,10 +23,10 @@
     "ai",
     "gpt-4"
   ],
-  "author": "Thoriq Azzikra",
+  "author": "Sanzy Dev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/thoriqazzikraa/chatgptV2/issues"
+    "url": "https://github.com/sanzydev/chatgptV2/issues"
   },
-  "homepage": "https://github.com/thoriqazzikraa/chatgptV2#readme"
+  "homepage": "https://github.com/sanzydev/chatgptV2#readme"
 }
